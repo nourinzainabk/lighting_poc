@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+roboflow
+python-multipart
+pillow
+psycopg2-binary 
+sqlalchemy
+pydantic-settings
+pydantic[email]
+passlib[argon2]
+python-jose[cryptography]

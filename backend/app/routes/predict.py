@@ -10,7 +10,7 @@ from app.core.auth import get_current_user
 
 PLACEMENT_MAP = {
     "path_light": "This fixture is best suited for pathways and driveways in residential landscape designs.",
-    "spot_light": "Ideal for highlighting focal points such as trees and architectural features.",
+    "spot_lighting": "Ideal for highlighting focal points such as trees and architectural features.",
     "wallwash_light": "Designed to evenly illuminate walls and large vertical surfaces.",
     "deck_lighting": "Perfect for enhancing visibility on decks, stairs, and railings."
 }
